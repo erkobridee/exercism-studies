@@ -8,6 +8,8 @@
 
   - [python - Official Image | Docker Hub](https://hub.docker.com/_/python/)
 
+  - [Choosing the Right Python Docker Image: Slim Buster vs. Alpine vs. Slim Bullseye | by Arif Rahman - Medium](https://medium.com/@arif.rahman.rhm/choosing-the-right-python-docker-image-slim-buster-vs-alpine-vs-slim-bullseye-5586bac8b4c9) (2024/01/18)
+
   - [Creating Python Docker Images: Complete Tutorial | Linux Dedicated Server Blog](https://ioflood.com/blog/python-docker-image/) (2023/09/06)
 
   - [How to “Dockerize” Your Python Applications | Docker](https://www.docker.com/blog/how-to-dockerize-your-python-applications/) (2022/04/22)
