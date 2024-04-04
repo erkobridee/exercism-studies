@@ -2,6 +2,8 @@
 
 My studies and annotations from [exercism.org](https://exercism.org/)
 
+- [[GitHub] exercism](https://github.com/exercism)
+
 - [Exercism's docs](https://exercism.org/docs)
 
   - [Using the online editor](https://exercism.org/docs/using/solving-exercises/using-the-online-editor) - Learn how to solve exercises using the Online Editor
