@@ -37,3 +37,5 @@
     - [[[GitHub]] devcontainers-contrib/features](https://github.com/devcontainers-contrib/features) - 🐳 Extra add-in features for Devcontainers and GitHub Codespaces
 
       - [feature exercism-cli](https://github.com/devcontainers-contrib/features/tree/main/src/exercism-cli)
+
+    - [[GitHub] CodeMan99/features](https://github.com/CodeMan99/features) - Dev Container Features ( [exercism-cli](https://github.com/CodeMan99/features/blob/main/src/exercism-cli/README.md) )
