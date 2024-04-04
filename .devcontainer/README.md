@@ -1,6 +1,12 @@
-# .devcontainer
+# [exercism-studies](../README.md) / .devcontainer / exercism-cli
 
-> 🚧 work in progress 🚨
+- [Exercism's docs](https://exercism.org/docs)
+
+  - [Working Locally](https://exercism.org/docs/using/solving-exercises/working-locally) - Learn how to solve exercises on your local machine
+
+    - [Installing the CLI](https://exercism.org/cli-walkthrough)
+
+    - [[GitHub] exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.org.
 
 - [Docker](https://www.docker.com/)
 

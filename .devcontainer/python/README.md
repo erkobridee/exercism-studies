@@ -1,6 +1,4 @@
-# .devcontainer / python
-
-> 🚧 work in progress 🚨
+# [exercism-studies](../../README.md) / [.devcontainer](../README.md) / python
 
 - [Python](https://www.python.org/)
 
@@ -16,13 +14,17 @@
 
     - [[YouTube] How to containerize Python applications with Docker | Docker](https://www.youtube.com/watch?v=0UG2x2iWerk) (2022/04/01)
 
-- Development Container
+- [Development Containers](https://containers.dev/)
 
   - [Build and run a Python app in a container | Visual Studio Code Docs](https://code.visualstudio.com/docs/containers/quickstart-python)
 
   - [[GitHub] microsoft/vscode-remote-try-python](https://github.com/microsoft/vscode-remote-try-python) - Python sample project for trying out Dev Containers
 
-  - [microsoft-devcontainers-python - Official Image | Docker Hub](https://hub.docker.com/_/microsoft-devcontainers-python)
+  - [[GitHub] devcontainers/images/src/python](https://github.com/devcontainers/images/tree/main/src/python)
+
+    - [Python Development Container Images | Microsoft Artifact Registry](https://mcr.microsoft.com/en-us/product/devcontainers/python/about)
+
+    - [microsoft-devcontainers-python - Official Image | Docker Hub](https://hub.docker.com/_/microsoft-devcontainers-python)
 
   - [Setting A Dockerized Python Environment — The Elegant Way | by Rami Krispin - Towards Data Science](https://towardsdatascience.com/setting-a-dockerized-python-environment-the-elegant-way-f716ef85571d) (2024/04/03)
 
