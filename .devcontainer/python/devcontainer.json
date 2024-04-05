@@ -13,15 +13,20 @@
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 
+	"mounts": [
+		"source=${localWorkspaceFolder}/.env,target=/workspace/.env,type=bind",
+		"source=${localWorkspaceFolder}/.devcontainer/_setup,target=/workspace/.devcontainer-setup,type=bind"
+	],
+
+	"workspaceMount": "source=${localWorkspaceFolder}/python,target=/workspace/python,type=bind",
+	"workspaceFolder": "/workspace/python",
+
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "python --version",
+	"postCreateCommand": "echo '' && python --version && echo '' && bash ../.devcontainer-setup/post-create-command.sh"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root",
-
-	"workspaceMount": "source=${localWorkspaceFolder}/python,target=/workspace/python,type=bind",
-	"workspaceFolder": "/workspace/python"
 }
