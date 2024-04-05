@@ -3,12 +3,14 @@
 {
 	"name": "exercism bash",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+	// "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	"features": {
-		"ghcr.io/devcontainers-contrib/features/exercism-cli:1": {},
-		"ghcr.io/brokenpip3/devcontainers-bats/bats-libs:0": {}
+		"ghcr.io/devcontainers-contrib/features/exercism-cli:1": {}
 	},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
