@@ -27,3 +27,12 @@
 
 - [13 resources for learning to write better Bash code | Enable Sysadmin](https://www.redhat.com/sysadmin/learn-bash-scripting)
 
+
+### Tools
+
+#### Bats
+
+- [[GitHub] bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
+
+- [Installation | bats-core 1 documentation](https://bats-core.readthedocs.io/en/stable/installation.html)
+
