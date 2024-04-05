@@ -36,3 +36,12 @@
 - [[GitHub] raffaelesury/exercism-python-docker](https://github.com/raffaelesury/exercism-python-docker)
 
 - [[GitHub] MrXcitement/docker-exercism-haskell](https://github.com/MrXcitement/docker-exercism-haskell)
+
+
+## Bash Shell - load `.env` file
+
+- [Set Environment Variables in Your Bash Shell From a .env File | zwbetz](https://zwbetz.com/set-environment-variables-in-your-bash-shell-from-a-env-file/)
+
+- [A Complete Guide to the Bash Environment Variables | Shell Tips!](https://www.shell-tips.com/bash/environment-variables/)
+
+- [[Gist] Load environment variables from dotenv / .env file in Bash](https://gist.github.com/mihow/9c7f559807069a03e302605691f85572)
