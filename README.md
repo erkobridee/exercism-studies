@@ -14,3 +14,9 @@ My studies and annotations from [exercism.org](https://exercism.org/)
 
     - [[GitHub] exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.org.
 
+
+## Exercism Tracks
+
+- [Bash](bash/README.md)
+
+- [Python](python/README.md)
